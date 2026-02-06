@@ -93,7 +93,10 @@ print(y_prednew)
 ```
 ## Output:
 
-<img width="1435" height="591" alt="image" src="https://github.com/user-attachments/assets/a180935d-4482-4520-a80b-34328316ed34" />
+<img width="1601" height="544" alt="image" src="https://github.com/user-attachments/assets/3742d491-3840-4a73-a982-c47983af9158" />
+
+<img width="1361" height="501" alt="image" src="https://github.com/user-attachments/assets/f5daf6ab-0277-40f9-b2de-98c11603aecb" />
+
 
 <img width="1210" height="785" alt="image" src="https://github.com/user-attachments/assets/4707f688-8cd9-42a3-bf82-914554695ef1" />
 
